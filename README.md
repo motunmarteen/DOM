@@ -4,7 +4,7 @@ This repository contains code and projects related to the DOM (Document Object M
 
 ## Course Overview
 
-The course is divided into two main parts:
+The course is divided into two main parts as follows:
 
 ### Part 1: Understanding the Basics
 
