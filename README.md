@@ -1,63 +1,57 @@
 # DOM Manipulation Course
 
-This repository contains code and projects related to the DOM (Document Object Model) Manipulation course provided by CodeLab on YouTube's FreeCodeCamp channel.
+This repository contains code and projects dedicated to learning DOM (Document Object Model) Manipulation. Initially based on the course provided by CodeLab on FreeCodeCamp's YouTube channel and expanded to include additional learning resources.
 
 ## Course Overview
 
-The course is divided into two main parts as follows:
+The content is structured into two main parts:
 
 ### Part 1: Understanding the Basics
-
 - Introduction to the DOM
-- Analogies for understanding the DOM tree structure
-- Selecting elements in the DOM
-- Styling and creating elements dynamically
-- Modifying text, attributes, and classes of elements
+- Understanding the DOM tree structure through analogies
+- Selecting elements within the DOM
+- Dynamic creation and styling of elements
+- Modifying text, attributes, and classes
 - Removing elements from the DOM
-- Traversing the DOM
+- Traversing the DOM efficiently
 - Event listeners, propagation, and delegation
 
 ### Part 2: Practical Projects
+Application of learned concepts to build projects of varying complexity:
+- **Project 1: Beginner**
+  - Markup setup
+  - General styles
+  - JavaScript implementation
+- **Project 2: Beginner +**
+  - Markup setup
+  - CSS styling
+  - JavaScript functionality
+- **Project 3: Intermediate**
+  - Markup setup
+  - Styling
+  - JavaScript features
+- **Project 4: Pro**
+  - Markup setup
+  - Advanced CSS styling
+  - Complex JavaScript functionalities
+- **Project 5: Master**
+  - Markup setup
+  - Advanced CSS styling
+  - Advanced JavaScript implementations
 
-The second part focuses on applying the learned concepts to build practical projects. Projects range from beginner to advanced levels:
+## Course Structure & Resources
 
-1. **Project 1: Beginner**
-   - Markup setup
-   - General styles
-   - JavaScript implementation
+### Video Sources
+1. [CodeLab's DOM Manipulation Course on YouTube](https://www.youtube.com/previous-course-link)
+2. [Additional Video Source: New YouTube Video](https://www.youtube.com/watch?v=VW8kNAous88&list=PLVvjrrRCBy2JS8__NYlhPeaoNz2p1aPEN)
 
-2. **Project 2: Beginner +**
-   - Markup setup
-   - CSS styling
-   - JavaScript functionality
+### Content Breakdown
+1. Introduction and fundamental DOM concepts
+2. Elements selection, manipulation, and styling
+3. Event handling and propagation
+4. Series of projects demonstrating incremental complexity
 
-3. **Project 3: Intermediate**
-   - Markup setup
-   - Styling
-   - JavaScript features
+### Repository Contents
+The code and examples related to each part and project are available in this repository. Dive in, explore, and leverage these resources to reinforce your understanding of DOM manipulation in JavaScript.
 
-4. **Project 4: Pro**
-   - Markup setup
-   - Advanced CSS styling
-   - Complex JavaScript functionalities
-
-5. **Project 5: Master**
-   - Markup setup
-   - Advanced CSS styling
-   - Advanced JavaScript implementations
-
-## Course Structure
-
-The video content breakdown is as follows:
-
-- Introduction and basic DOM concepts
-- Elements selection, manipulation, and styling
-- Event handling and propagation
-- Series of projects with incremental complexity
-
-## Resources
-
-- YouTube Course Link: [CodeLab's DOM Manipulation Course](https://www.youtube.com/c/codelab98)
-- Code and examples related to each part and project are available in this repository.
-
-Feel free to explore the code and projects to reinforce your understanding of DOM manipulation in JavaScript.
+Feel free to reach out, contribute, or explore further to enhance your knowledge of DOM manipulation.
