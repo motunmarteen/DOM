@@ -1,2 +1,2 @@
 let newElement = document.createElement("input");
-document.body.appendChild(newElement)
+document.body.appendChild(newElement);
